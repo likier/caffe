@@ -1,5 +1,10 @@
 # Caffe
 
+本项目为本地化 Caffe 项目，用于固定版本做开发。
+不保证稳定性，不定期同步原项目，不定期更新该文件。
+
+## Original Caffe Introduction
+
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
 
